@@ -30,7 +30,7 @@ Each engineer tasks related to CSCC01 Lab 4
 - [ ] push branch C to remote repo
 
 ## Carter (Person 4)
-- [ ] Branch D and implement creation date functionality
-- [ ] add changes and commit
-- [ ] push the branch with the remote repo option -u
+- [x] Branch D and implement creation date functionality
+- [x] add changes and commit
+- [x] push the branch with the remote repo option -u
 
