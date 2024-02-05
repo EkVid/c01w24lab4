@@ -13,15 +13,15 @@ Each engineer tasks related to CSCC01 Lab 4
 - [ ] 
 
 ## Austin (Person 5)
-- [ ] create PR template 
+- [ ] create PR template
+- [ ] create PR for branch A
 - [ ] merge branch A into devel
-- [ ] 
 
 ## Auric (Person 2)
-- [ ] Fix bug related to deleting note
-- [ ] change background colour
-- [ ] put it all in the deliverables folder
-- [ ] push to the branch with remote repo
+- [x] Fix bug related to deleting note
+- [x] change background colour
+- [x] put it all in the deliverables folder
+- [x] push to the branch with remote repo
 
 
 ## Ben (Person 3)
