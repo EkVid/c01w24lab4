@@ -12,9 +12,9 @@ Each engineer tasks related to CSCC01 Lab 4
 - [ ] merge devel into main
 
 ## Austin (Person 5)
-- [ ] create PR template
-- [ ] create PR for branch A
-- [ ] merge branch A into devel
+- [x] create PR template
+- [x] create PR for branch A
+- [x] merge branch A into devel
 
 ## Auric (Person 2)
 - [x] Fix bug related to deleting note
