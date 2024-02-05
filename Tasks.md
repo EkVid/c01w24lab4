@@ -8,7 +8,7 @@ Each engineer tasks related to CSCC01 Lab 4
 - [ ] resolve any conflicts
 
 ## Alykhan (Person 6)
-- [ ] merge branch C into devel
+- [x] merge branch C into devel
 - [ ] merge devel into main
 
 ## Austin (Person 5)
