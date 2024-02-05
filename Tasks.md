@@ -25,9 +25,9 @@ Each engineer tasks related to CSCC01 Lab 4
 
 
 ## Ben (Person 3)
-- [ ] Branch C and implement note search functionality
-- [ ] rebase Branch D into Branch C
-- [ ] push branch C to remote repo
+- [✓] Branch C and implement note search functionality
+- [✓] rebase Branch D into Branch C
+- [✓] push branch C to remote repo
 
 ## Carter (Person 4)
 - [x] Branch D and implement creation date functionality
