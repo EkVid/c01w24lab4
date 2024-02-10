@@ -1,0 +1,7 @@
+In the frontend, the array storing the notes would be updated before
+  getting deleted from the database, so the note disappears yet it
+  wasn't deleted from the database. Thus refreshing will cause the note
+  to reappear after clicking delete.
+
+In the backend, there is only a console.log before sending a 500 response,
+  so there wasn't any attempt to delete the note.
