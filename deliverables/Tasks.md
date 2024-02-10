@@ -3,13 +3,13 @@
 Each engineer tasks related to CSCC01 Lab 4
 
 ## Ali (Person 1)
-- [ ] branch A develop colour coding feature for notes
-- [ ] add changes and commit
-- [ ] resolve any conflicts
+- [x] branch A develop colour coding feature for notes
+- [x] add changes and commit
+- [x] resolve any conflicts
 
 ## Alykhan (Person 6)
 - [x] merge branch C into devel
-- [ ] merge devel into main
+- [x] merge devel into main
 
 ## Austin (Person 5)
 - [x] create PR template
