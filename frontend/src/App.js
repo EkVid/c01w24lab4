@@ -195,13 +195,23 @@ function App() {
                 deleteNote={deleteNote}
                 />
               </div>
-            )}
+              )
+            })
+            :
+            <div style={AppStyle.notesError}>
+              Something has gone horribly wrong!
+              We can't get the notes!
+            </div>
+            }
           </div>
 
           <button onClick={postNote}>Post Note</button>
-          {notes && notes.length > 0 && (
-            <button onClick={deleteAllNotes}>Delete All Notes</button>
-          )}
+          {notes && notes.length > 0 && 
+          <button
+              onClick={deleteAllNotes}
+              >
+              Delete All Notes
+          </button>}
         </div>
 
         <Dialog
